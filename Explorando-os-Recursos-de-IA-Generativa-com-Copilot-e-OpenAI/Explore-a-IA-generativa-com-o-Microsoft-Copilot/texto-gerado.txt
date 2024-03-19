@@ -1,0 +1,16 @@
+Certainly! Generative AI is making a significant impact across various industries, helping people in practical and innovative ways. Here are three examples of how generative AI is assisting individuals:
+
+Conversational AI Apps for Patients:
+Example: Ada
+Description: Ada is a doctor-developed symptom assessment app that offers medical guidance in multiple languages. Optimized with the expertise of human doctors, Ada utilizes AI to support improved health outcomes and deliver exceptional clinical excellence1.
+Application: Patients can interact with Ada to assess their symptoms, receive personalized recommendations, and gain insights into potential health conditions.
+AI Applications for Early Detection of Certain Diseases:
+Example: SkinVision App
+Description: SkinVision is an app designed for early detection of skin cancer. It combines regulated medical services, AI technology, and expert input to teach users self-examination techniques, understand risks, and address immediate concerns1.
+Application: Users can take photos of their skin lesions using the app, which then analyzes the images and provides risk assessments, potentially aiding in early diagnosis and timely intervention.
+AI for Accessibility:
+Example: Virtual Volunteer / Be My Eyes
+Description: Be My Eyes is an AI app designed for visually impaired individuals. It harnesses the power of GPT-4 to convert images into text instantly. Users can send images through the app for immediate identification, interpretation, and conversational visual assistance1.
+Application: Visually impaired users can use the app to get real-time assistance with tasks such as reading labels, identifying objects, or navigating their surroundings.
+These examples demonstrate how generative AI is positively impacting healthcare, accessibility, and patient interactions. As AI continues to evolve, we can expect even more innovative applications that enhance people’s lives across various domains.
+
