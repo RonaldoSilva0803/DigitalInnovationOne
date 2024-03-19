@@ -1,0 +1,3 @@
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
